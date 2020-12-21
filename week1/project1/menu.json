@@ -1,0 +1,28 @@
+{
+    "menu": {
+        "appetizers": {
+            "cheese sticks":["mozerella", "spicy jack", "chedder"],
+            "mini pretzels": ["salty cheddar", "sweet icing", "pepporoni topping"]
+        },
+        "coldSandwich": {
+            "ham":["honey ham", "cherry tomtato", "cheese"],
+            "turkey":["turkey", "lettuce", "provolone"]
+        },
+        "hotSandwich": {
+            "chicken":[ "roasted chicken", "grilled onions", "spicy mayo"],
+            "cheese melt":["toasted cheddar", "melted mozarella", "sub sauce"]
+        },
+        "dessert":{
+            "ice cream":["rainbow sherbert", "vanilla", "coffee" ],
+            "cake": ["ice cream cake", "cheesecake", "red velvet"]
+        },
+        "drink": {
+            "soda": ["coke", "sprite", "dr. pepper"],
+            "water": ["flat", "sparkling","flavored"]
+        }
+    }
+}   
+
+        
+     
+
